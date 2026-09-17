@@ -60,3 +60,17 @@ main h2 {
     border-bottom: 2px solid #e8f5ef;
     padding-bottom: 0.5rem;
 }
+
+/* ===== Footer ===== */
+footer {
+    background-color: #2c6e49;
+    color: #ffffff;
+    text-align: center;
+    padding: 1.2rem;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+
+footer p {
+    margin: 0.2rem 0;
+}
